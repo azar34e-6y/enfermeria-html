@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrera de Enfermería</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            background-color: #f2f8fb;
+            color: #333;
+        }
+        header {
+            background-color: #1f8dd6;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            padding: 30px 20px;
+        }
+        h2 {
+            color: #1f8dd6;
+            margin-top: 30px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #1f8dd6;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Carrera de Enfermería</h1>
+        <p>Explora tu vocación de cuidar y salvar vidas</p>
+    </header>
+
+    <section>
+        <h2>¿Qué es la carrera de Enfermería?</h2>
+        <p>La carrera de Enfermería forma profesionales capacitados en el cuidado de la salud humana, con conocimientos científicos, técnicos y éticos para atender a personas en distintas etapas de la vida. Es una carrera de gran compromiso social y humano.</p>
+    </section>
+
+    <section>
+        <h2>¿Dónde estudiar Enfermería en México?</h2>
+        <ul>
+            <li><strong>UNAM</strong> – Universidad Nacional Autónoma de México</li>
+            <li><strong>IPN</strong> – Instituto Politécnico Nacional</li>
+            <li><strong>UANL</strong> – Universidad Autónoma de Nuevo León</li>
+            <li><strong>UdeG</strong> – Universidad de Guadalajara</li>
+            <li><strong>UVM</strong> – Universidad del Valle de México</li>
+            <li><strong>Universidad La Salle</strong></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Campo Laboral</h2>
+        <p>Los egresados pueden trabajar en hospitales, clínicas, centros de salud, laboratorios, escuelas, fundaciones, organismos internacionales y también pueden especializarse en áreas como pediatría, geriatría, cuidados intensivos, salud pública, entre otros.</p>
+    </section>
+
+    <section>
+        <h2>¿Por qué estudiar Enfermería?</h2>
+        <p>Porque es una carrera noble, humana y con alta demanda laboral. Brinda la oportunidad de servir, aprender constantemente y desarrollarse en distintas áreas de la salud.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Carrera de Enfermería | Página creada por Azareel Abigail Méndez López</p>
+    </footer>
+
+</body>
+</html>
