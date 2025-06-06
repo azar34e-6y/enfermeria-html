@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrera de Enfermería</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e6f2f8;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #007acc;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+        h2 {
+            color: #007acc;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #007acc;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Carrera de Enfermería</h1>
+        <p>Por Azareel Abigail Méndez López</p>
+    </header>
+
+    <section>
+        <h2>¿En qué consiste la carrera de Enfermería?</h2>
+        <p>La carrera de Enfermería forma profesionales comprometidos con el cuidado de la salud física, mental y emocional de las personas. Las y los enfermeros desempeñan un papel fundamental en hospitales, clínicas, comunidades y centros de investigación, brindando atención, apoyo y educación para la salud.</p>
+    </section>
+
+    <section>
+        <h2>¿Dónde se puede estudiar la carrera de Enfermería?</h2>
+        <ul>
+            <li><strong>UNAM</strong> - Universidad Nacional Autónoma de México</li>
+            <li><strong>IPN</strong> - Instituto Politécnico Nacional</li>
+            <li><strong>UANL</strong> - Universidad Autónoma de Nuevo León</li>
+            <li><strong>UdeG</strong> - Universidad de Guadalajara</li>
+            <li><strong>UVM</strong> - Universidad del Valle de México</li>
+            <li><strong>Universidad La Salle</strong> - Campus Ciudad de México y otros</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Campo laboral</h2>
+        <p>Al egresar, podrás trabajar en hospitales públicos y privados, clínicas, consultorios, centros comunitarios, organizaciones no gubernamentales, escuelas, y más. También puedes especializarte en áreas como pediatría, geriatría, cuidados intensivos, salud pública, entre otras.</p>
+    </section>
+
+    <footer>
+        <p>Página creada por Azareel Abigail Méndez López | © 2025</p>
+    </footer>
+
+</body>
+</html>
